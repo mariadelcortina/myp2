@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+}
+
+
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+}
+.nav-item:hover{
+    color: #000000;
+    background-color: #0099cc;
+}
+
+
+
+
+.section-texto {
+    background: #ffffff;
+    width: 100%;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+
+}
+
+.section-texto>div {
+    width: 100%;
+    margin: auto;
+}
+
+.foto1 {
+    background: url("BLUE.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    position: center;
+    text-align: center;
+    color: #ffffff;
+    align-content: center;
+    display: grid;
+    place-content: center;
+}
+
+.foto2 {
+    background: url("agujero.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    position: center;
+    text-align: center;
+    color: #ffffff;
+    align-content: center;
+    display: grid;
+    place-content: center;
+}
+
+.foto3 {
+    background: url("A_black_image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    position: center;
+    text-align: center;
+    color: #ffffff;
+    align-content: center;
+    display: grid;
+    place-content: center;
+}
+
+
+.video123 {
+    background: url("IRye.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    position: center;
+}
+
+footer {
+    background-color: black;
+    position: center;
+    text-align: center;
+    color: #ffffff;
+    align-content: center;
+    display: grid;
+    place-content: center;
+    border-image-width: 7%;
+}
+
+.container text-center {
+    border-image-width: 7%;
+}
+
+.showcase {
+    width: 40%;
+    
+}
+
+
+
+
+/* CARTELERA */
+
